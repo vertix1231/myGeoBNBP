@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>c9810026-e38a-4f94-90e9-61596c2adc08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.nuxt-icon--fill.w-5.h-5.text-grey-700 > g > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>23264e70-1c42-424c-8c74-2fc6de6d55de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#353332</value>
+      <webElementGuid>3b7d90d9-bd4a-4e50-8de6-f5ff6cb9b437</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>m15.054 12.886.656 2.864h-1.464l.676-2.864a.068.068 0 0 1 .131 0h.001ZM20 11.666V20H10v-8.333c0-.921.746-1.667 1.667-1.667h6.666c.921 0 1.667.746 1.667 1.667Zm-2.5 6.667-1.3-5.67c-.088-.386-.335-.738-.7-.891a1.241 1.241 0 0 0-1.714.85l-1.347 5.711h1.198l.334-1.416h2.007l.324 1.416H17.5ZM10 10H0V1.667C0 .746.746 0 1.667 0h6.666C9.254 0 10 .746 10 1.667V10ZM7.917 2.554H5.523v-.833H4.478v.833H2.083v1.044H6.09c-.093.803-.403 1.793-1.086 2.56a4.158 4.158 0 0 1-.706-1.105H3.185c.22.626.557 1.24 1.02 1.77-.554.335-1.247.55-2.122.55v1.045c1.219 0 2.18-.345 2.927-.878.745.53 1.694.878 2.907.878V7.373c-.874 0-1.564-.218-2.116-.554.825-.946 1.237-2.159 1.339-3.221h.777V2.553v.001ZM17.5 2.5h-2.498l1.25-1.25-1.18-1.177-2.089 2.089a1.66 1.66 0 0 0 0 2.343l2.089 2.088 1.178-1.178-1.257-1.25h2.505c.46 0 .834.375.834.834v3.333h1.666V5c0-1.378-1.121-2.5-2.5-2.5h.002ZM4.928 13.407l-1.179 1.178 1.257 1.248H2.5A.834.834 0 0 1 1.667 15v-3.333H0V15c0 1.378 1.122 2.5 2.5 2.5h2.497L3.75 18.748l1.179 1.179 2.089-2.09a1.662 1.662 0 0 0 0-2.343l-2.089-2.088Z</value>
+      <webElementGuid>40f1ed0f-6875-4c1b-8be7-efebb82cb14a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-listbox-button-v-0-0-0-1&quot;)/svg[@class=&quot;nuxt-icon--fill w-5 h-5 text-grey-700&quot;]/g[1]/path[1]</value>
+      <webElementGuid>6a321b1e-dc04-4224-af56-512a1529f9cf</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

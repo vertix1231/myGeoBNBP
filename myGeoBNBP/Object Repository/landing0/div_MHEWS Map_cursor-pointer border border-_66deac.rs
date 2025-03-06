@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MHEWS Map_cursor-pointer border border-_66deac</name>
+   <tag></tag>
+   <elementGuidId>d27ee4c5-ce3f-4b31-b8fd-f91a5b75478b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='headlessui-popover-button-v-0-0-0-7']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cursor-pointer.border.border-grey-500.rounded-sm.p-2.h-10.w-10.flex.items-center.justify-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>876bfe12-659f-483d-a702-e75fc9828480</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer border border-grey-500 rounded-sm p-2 h-10 w-10 flex items-center justify-center</value>
+      <webElementGuid>8d20184f-b951-4a15-afff-43127f19348a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-popover-button-v-0-0-0-7&quot;)/div[@class=&quot;cursor-pointer border border-grey-500 rounded-sm p-2 h-10 w-10 flex items-center justify-center&quot;]</value>
+      <webElementGuid>d5b913d2-2fbe-44e9-b081-d6795e8b45d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='headlessui-popover-button-v-0-0-0-7']/div</value>
+      <webElementGuid>7f29f45c-c909-4bb2-92f0-d0674bd2953c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MHEWS Map'])[1]/following::div[9]</value>
+      <webElementGuid>20cdf58b-728c-4e0e-a9bb-dd7e3ce15355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multi Hazard Early Warning System'])[2]/preceding::div[2]</value>
+      <webElementGuid>1b0a8603-aff9-4331-9ccb-46445d3337fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitigation'])[1]/preceding::div[4]</value>
+      <webElementGuid>3dbdcaa5-5a2e-4a38-b2d5-433247e40f36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button/div</value>
+      <webElementGuid>819e13ea-c542-4cb7-ade8-27a0a8104a79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

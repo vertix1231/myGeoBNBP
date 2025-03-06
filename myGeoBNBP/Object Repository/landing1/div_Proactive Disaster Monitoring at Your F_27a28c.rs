@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Proactive Disaster Monitoring at Your F_27a28c</name>
+   <tag></tag>
+   <elementGuidId>fc73fc1b-8de7-471a-ab76-af8d3da05d0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.w-full.h-full.bg-cover.bg-center.rounded-lg.p-3.flex.flex-col</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>80868d50-1323-4582-8e7b-2c36df9a2333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full h-full bg-cover bg-center rounded-lg p-3 flex flex-col</value>
+      <webElementGuid>1a8c9ac3-2504-46d1-ac3f-9b9cca4c2890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Proactive Disaster Monitoring at Your FingertipsReal-Time Monitoring of Earthquakes, Floods, and TsunamisMulti Hazard Early Warning System  provides real-time updates on ongoing and upcoming natural disasters, offering critical information for quick action.FloodMonitor rising water levels and predict flood risks in real-time or using predictive models.MitigationLatest AlertsTsunamiEarly warnings and tsunami simulations triggered by earthquakes and underwater volcanic eruptions.MitigationLatest AlertsEvacuationSee disaster evacuation simulations and impact analysis of the disaster that occurred.MitigationEvacuation Simulation</value>
+      <webElementGuid>7d49afa0-4029-4681-91bf-4d87eb32ba9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;mt-9 relative&quot;]/div[@class=&quot;relative w-full h-full sm:h-[50rem] p-3&quot;]/div[@class=&quot;w-full h-full bg-cover bg-center rounded-lg p-3 flex flex-col&quot;]</value>
+      <webElementGuid>4bafd9da-7b7c-4978-ae9c-9d6eaa20f7c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div[2]/div/div</value>
+      <webElementGuid>58000f9c-e155-4d96-be86-38aac3d35b08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MHEWS Map'])[1]/following::div[13]</value>
+      <webElementGuid>631a16ff-49ce-43ff-8f9b-7b5c9ab8b091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>b3cd3725-71a7-426b-9e53-c279b281fa98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Proactive Disaster Monitoring at Your FingertipsReal-Time Monitoring of Earthquakes, Floods, and TsunamisMulti Hazard Early Warning System  provides real-time updates on ongoing and upcoming natural disasters, offering critical information for quick action.FloodMonitor rising water levels and predict flood risks in real-time or using predictive models.MitigationLatest AlertsTsunamiEarly warnings and tsunami simulations triggered by earthquakes and underwater volcanic eruptions.MitigationLatest AlertsEvacuationSee disaster evacuation simulations and impact analysis of the disaster that occurred.MitigationEvacuation Simulation' or . = 'Proactive Disaster Monitoring at Your FingertipsReal-Time Monitoring of Earthquakes, Floods, and TsunamisMulti Hazard Early Warning System  provides real-time updates on ongoing and upcoming natural disasters, offering critical information for quick action.FloodMonitor rising water levels and predict flood risks in real-time or using predictive models.MitigationLatest AlertsTsunamiEarly warnings and tsunami simulations triggered by earthquakes and underwater volcanic eruptions.MitigationLatest AlertsEvacuationSee disaster evacuation simulations and impact analysis of the disaster that occurred.MitigationEvacuation Simulation')]</value>
+      <webElementGuid>d4a0d07b-1953-4d7b-80ae-0208020a39e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

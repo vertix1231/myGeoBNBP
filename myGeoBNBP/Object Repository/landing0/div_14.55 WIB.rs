@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_14.55 WIB</name>
+   <tag></tag>
+   <elementGuidId>6b5a4ff0-1ac6-42ab-a040-13b2c14cbb1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='headlessui-popover-button-v-0-0-0-2']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cursor-pointer.border.border-grey-500.rounded-sm.p-2.h-10.flex.items-center.justify-center.gap-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d44ef109-11e0-47f6-9fbb-f51d61907c20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer border border-grey-500 rounded-sm p-2 h-10 flex items-center justify-center gap-2</value>
+      <webElementGuid>7a3152c8-eb51-4692-9c1b-33cbcc4acae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>14.55 WIB</value>
+      <webElementGuid>c59c106c-273e-4de3-8fd2-c1e510c4e004</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-popover-button-v-0-0-0-2&quot;)/div[@class=&quot;cursor-pointer border border-grey-500 rounded-sm p-2 h-10 flex items-center justify-center gap-2&quot;]</value>
+      <webElementGuid>84200569-cc31-4f90-9fac-6afc50795f29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='headlessui-popover-button-v-0-0-0-2']/div</value>
+      <webElementGuid>aa1f4913-d93f-40f3-81bf-c87413f0b81e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MHEWS Map'])[1]/following::div[6]</value>
+      <webElementGuid>98e49635-32b7-4645-8b35-136f7fd2c0f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multi Hazard Early Warning System'])[2]/preceding::div[5]</value>
+      <webElementGuid>722d03e1-71fa-4b3c-b3f5-c9513803f974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitigation'])[1]/preceding::div[7]</value>
+      <webElementGuid>4e682f10-0ce2-4edc-803e-b9bf2744068c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>1b3cbe9e-b4be-428a-992f-765923af6cfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '14.55 WIB' or . = '14.55 WIB')]</value>
+      <webElementGuid>c03084aa-23e7-4d97-bf5f-02e18645c02f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

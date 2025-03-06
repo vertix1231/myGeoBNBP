@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Latest Alerts</name>
+   <tag></tag>
+   <elementGuidId>f4d39223-bcec-4919-9e6f-1bb038ea222e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a48a5664-b3be-4d98-a370-68fc87612644</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3774d8d1-b343-4f9e-92ca-8e5bbae696d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>focus:outline-none disabled:cursor-not-allowed disabled:opacity-75 aria-disabled:cursor-not-allowed aria-disabled:opacity-75 flex-shrink-0 h-14 justify-center flex-grow font-medium rounded-sm text-sm gap-x-1.5 px-2.5 py-1.5 shadow-sm dark:text-gray-900 hover:bg-primary-600 disabled:bg-primary-500 aria-disabled:bg-primary-500 dark:bg-primary-400 dark:hover:bg-primary-500 dark:disabled:bg-primary-400 dark:aria-disabled:bg-primary-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-500 dark:focus-visible:outline-primary-400 bg-brand-600 text-white inline-flex items-center</value>
+      <webElementGuid>a04d2501-d792-4db7-ba80-1102158a050c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Latest Alerts</value>
+      <webElementGuid>bf9c47b1-88b2-4fab-aea6-41516eb9ff8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;mt-9 relative&quot;]/div[@class=&quot;relative w-full h-full sm:h-[50rem] p-3&quot;]/div[@class=&quot;w-full h-full bg-cover bg-center rounded-lg p-3 flex flex-col&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-3 gap-2&quot;]/div[@class=&quot;relative overflow-hidden bg-grey-100 rounded-lg pt-6 px-3 pb-3 flex flex-col justify-between gap-1&quot;]/div[@class=&quot;flex gap-2 pt-1&quot;]/button[@class=&quot;focus:outline-none disabled:cursor-not-allowed disabled:opacity-75 aria-disabled:cursor-not-allowed aria-disabled:opacity-75 flex-shrink-0 h-14 justify-center flex-grow font-medium rounded-sm text-sm gap-x-1.5 px-2.5 py-1.5 shadow-sm dark:text-gray-900 hover:bg-primary-600 disabled:bg-primary-500 aria-disabled:bg-primary-500 dark:bg-primary-400 dark:hover:bg-primary-500 dark:disabled:bg-primary-400 dark:aria-disabled:bg-primary-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-500 dark:focus-visible:outline-primary-400 bg-brand-600 text-white inline-flex items-center&quot;]</value>
+      <webElementGuid>e3b6461a-5815-4956-a486-b62977a79f05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>501590ee-1554-44da-bbe6-3c75f2814cd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div[2]/div/div/div[2]/div/div[2]/button[2]</value>
+      <webElementGuid>509d9d40-56fc-45a5-be39-334782a1b06a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitigation'])[1]/following::button[1]</value>
+      <webElementGuid>0217c004-d6f0-4a1a-b5a6-a5b86536c092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multi Hazard Early Warning System'])[2]/following::button[2]</value>
+      <webElementGuid>5e9028d2-47fa-4025-9580-2c7987a0a7bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitigation'])[2]/preceding::button[1]</value>
+      <webElementGuid>5937a1ca-6e9b-473f-9c17-102152bf6f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[2]</value>
+      <webElementGuid>774a4344-c6be-4dc1-a37b-55324a2d9e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Latest Alerts' or . = 'Latest Alerts')]</value>
+      <webElementGuid>ad276e52-865c-49f1-9f99-859617ecaad4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -23,5 +23,5 @@ WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('button_MHEWS Map'))
+WebUI.click(findTestObject('irsyad/button_MHEWS Map'))
 

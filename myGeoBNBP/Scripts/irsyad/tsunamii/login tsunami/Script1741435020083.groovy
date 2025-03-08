@@ -17,19 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl(GlobalVariable.url)
-
-WebUI.maximizeWindow()
-
-WebUI.click(findTestObject('Object Repository/irsyad/login/button_Latest Alerts'))
-
-WebUI.setText(findTestObject('Object Repository/irsyad/login/input_Multi Hazard Early Warning System_email'), 'admin@example.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/irsyad/login/input_Multi Hazard Early Warning System_password'), '76urUe1T5hacINtx1jFsbA==')
-
-WebUI.click(findTestObject('Object Repository/irsyad/login/button_Sign In'))
-
-WebUI.click(findTestObject('Object Repository/irsyad/login/button_Back'))
-

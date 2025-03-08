@@ -3,15 +3,14 @@
    <description></description>
    <name>button_Back</name>
    <tag></tag>
-   <elementGuidId>d889fc7c-9e05-4175-9e95-5875b88f11ff</elementGuidId>
+   <elementGuidId>036307e6-cfc5-493f-9734-d103c42110aa</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[20]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[17]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d5a8de21-4518-4c11-82a6-52c201ff8632</webElementGuid>
+      <webElementGuid>974f37e7-c3e2-4865-8ce0-8cd1fe6e0a1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bf2fc8b8-0696-4dde-b800-e5099384c96c</webElementGuid>
+      <webElementGuid>ee4608ea-e193-41ef-9574-f6f7c7a9db31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>focus:outline-none focus-visible:outline-0 disabled:cursor-not-allowed disabled:opacity-75 aria-disabled:cursor-not-allowed aria-disabled:opacity-75 flex-shrink-0 w-40 h-[34px] justify-center font-medium rounded-sm text-xs gap-x-1.5 px-2.5 py-1.5 dark:text-primary-400 disabled:bg-transparent aria-disabled:bg-transparent dark:hover:bg-primary-950 dark:disabled:bg-transparent dark:aria-disabled:bg-transparent dark:focus-visible:ring-primary-400 bg-transparent ring-1 ring-inset hover:ring-primary-700 disabled:text-grey-600 disabled:ring-grey-600 disabled:hover:bg-transparent hover:bg-primary-100 focus-visible:ring-1 focus-visible:ring-brand-200 text-brand-500 ring-brand-500 inline-flex items-center</value>
-      <webElementGuid>0fd75236-4e59-457b-b67c-f18fb3617e3d</webElementGuid>
+      <webElementGuid>33856dc4-e379-40f1-92fc-7ffaa2b356de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,31 +46,31 @@
       <name>text</name>
       <type>Main</type>
       <value>Back</value>
-      <webElementGuid>e5455232-87a8-406e-970d-2c95dc9d7483</webElementGuid>
+      <webElementGuid>792a7967-3b34-454e-ad0b-afa67bca3225</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;headlessui-dialog-panel-v-0-2-1-14&quot;)/div[@class=&quot;flex rounded-lg overflow-hidden h-full&quot;]/div[@class=&quot;w-80 p-10 text-center flex flex-col justify-center items-center&quot;]/div[@class=&quot;border-t border-grey-200 mt-4 pt-4 flex flex-col gap-2 items-center&quot;]/button[@class=&quot;focus:outline-none focus-visible:outline-0 disabled:cursor-not-allowed disabled:opacity-75 aria-disabled:cursor-not-allowed aria-disabled:opacity-75 flex-shrink-0 w-40 h-[34px] justify-center font-medium rounded-sm text-xs gap-x-1.5 px-2.5 py-1.5 dark:text-primary-400 disabled:bg-transparent aria-disabled:bg-transparent dark:hover:bg-primary-950 dark:disabled:bg-transparent dark:aria-disabled:bg-transparent dark:focus-visible:ring-primary-400 bg-transparent ring-1 ring-inset hover:ring-primary-700 disabled:text-grey-600 disabled:ring-grey-600 disabled:hover:bg-transparent hover:bg-primary-100 focus-visible:ring-1 focus-visible:ring-brand-200 text-brand-500 ring-brand-500 inline-flex items-center&quot;]</value>
-      <webElementGuid>b24aea78-2ecd-4f24-acea-61cc8cb1876e</webElementGuid>
+      <value>id(&quot;headlessui-dialog-panel-v-0-2-11&quot;)/div[@class=&quot;flex rounded-lg overflow-hidden h-full&quot;]/div[@class=&quot;w-80 p-10 text-center flex flex-col justify-center items-center&quot;]/div[@class=&quot;border-t border-grey-200 mt-4 pt-4 flex flex-col gap-2 items-center&quot;]/button[@class=&quot;focus:outline-none focus-visible:outline-0 disabled:cursor-not-allowed disabled:opacity-75 aria-disabled:cursor-not-allowed aria-disabled:opacity-75 flex-shrink-0 w-40 h-[34px] justify-center font-medium rounded-sm text-xs gap-x-1.5 px-2.5 py-1.5 dark:text-primary-400 disabled:bg-transparent aria-disabled:bg-transparent dark:hover:bg-primary-950 dark:disabled:bg-transparent dark:aria-disabled:bg-transparent dark:focus-visible:ring-primary-400 bg-transparent ring-1 ring-inset hover:ring-primary-700 disabled:text-grey-600 disabled:ring-grey-600 disabled:hover:bg-transparent hover:bg-primary-100 focus-visible:ring-1 focus-visible:ring-brand-200 text-brand-500 ring-brand-500 inline-flex items-center&quot;]</value>
+      <webElementGuid>7c107cf2-b511-40c8-a31c-031b0a53cb00</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[20]</value>
-      <webElementGuid>945789da-18d6-40ca-b1e0-9b3e1f29dca0</webElementGuid>
+      <value>(//button[@type='button'])[17]</value>
+      <webElementGuid>b0bf5220-9733-4027-868b-18ba661945ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='headlessui-dialog-panel-v-0-2-1-14']/div/div[2]/div/button[2]</value>
-      <webElementGuid>92427b5e-0d30-4b8c-8700-9cb82475511e</webElementGuid>
+      <value>//div[@id='headlessui-dialog-panel-v-0-2-11']/div/div[2]/div/button[2]</value>
+      <webElementGuid>41e06fc3-2aee-4e25-a49c-5f9d4c07e9f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,23 +78,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard MHEWS'])[1]/following::button[1]</value>
-      <webElementGuid>df010535-44e8-4ec7-8290-7424f2f8b10b</webElementGuid>
+      <webElementGuid>e38af151-9679-437d-b31e-ea7de6861ef3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Detail'])[1]/following::button[22]</value>
-      <webElementGuid>15be75dd-ae77-42cb-8988-e90bf6ae723b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sortir'])[2]/following::button[3]</value>
+      <webElementGuid>ba47a4dc-0bac-4825-9d70-8ffc00df67be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/button[2]</value>
-      <webElementGuid>c42697e0-db51-44c3-84c2-1899d2cc3c26</webElementGuid>
+      <value>//div/div/div/div/div/div/div/div[2]/div/button[2]</value>
+      <webElementGuid>d0722594-242f-4943-bbbb-dd04cb8fb266</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Back' or . = 'Back')]</value>
-      <webElementGuid>07605d5e-0567-4a19-a84f-50843d8d1b6f</webElementGuid>
+      <webElementGuid>88dd1172-4bd6-4182-8c47-9b1dcdc746dd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

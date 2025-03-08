@@ -23,15 +23,15 @@ WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.maximizeWindow()
 
-//WebUI.scrollToElement(findTestObject('landing0/button_Latest Alerts'), 10000)
-WebUI.click(findTestObject('Object Repository/landing0/button_Latest Alerts'))
+//WebUI.scrollToElement(findTestObject('irsyad/landing0/button_Latest Alerts'), 10000)
+WebUI.click(findTestObject('Object Repository/irsyad/landing0/button_Latest Alerts'))
 
-WebUI.setText(findTestObject('Object Repository/landing0/input_Multi Hazard Early Warning System Map_email'), GlobalVariable.username)
+WebUI.setText(findTestObject('Object Repository/irsyad/landing0/input_Multi Hazard Early Warning System Map_email'), GlobalVariable.username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/landing0/input_Multi Hazard Early Warning System Map_2d5bf2'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/irsyad/landing0/input_Multi Hazard Early Warning System Map_2d5bf2'), 
     '76urUe1T5hacINtx1jFsbA==')
 
-WebUI.click(findTestObject('Object Repository/landing0/button_Sign In'))
+WebUI.click(findTestObject('Object Repository/irsyad/landing0/button_Sign In'))
 
-WebUI.click(findTestObject('Object Repository/login/button_Back'))
+WebUI.click(findTestObject('Object Repository/irsyad/login/button_Back'))
 

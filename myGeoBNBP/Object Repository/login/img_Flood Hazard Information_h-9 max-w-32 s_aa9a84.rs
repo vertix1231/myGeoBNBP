@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Flood Hazard Information_h-9 max-w-32 s_aa9a84</name>
+   <tag></tag>
+   <elementGuidId>c4cf82f6-0076-48f3-ac2b-6d5ce1122d8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbar']/div/div/button[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>29ce9de5-7a47-4d6f-921b-bd3967253657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/panel/assets/1e14f9f7-dff9-4512-8e10-186289920cd6</value>
+      <webElementGuid>6dbc57be-0fff-4545-b1c3-5523ae4b3a6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>/panel/assets/1e14f9f7-dff9-4512-8e10-186289920cd6 1x, /panel/assets/1e14f9f7-dff9-4512-8e10-186289920cd6 2x</value>
+      <webElementGuid>38baceee-9a7e-41ad-b335-1fc8fe9b15fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-9 max-w-32 sm:max-w-56 object-contain object-center sm:block hidden</value>
+      <webElementGuid>0cc54e78-dae3-4d01-b24a-602990876ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar&quot;)/div[@class=&quot;flex items-center gap-1&quot;]/div[@class=&quot;flex items-center gap-2 bg-grey-50 p-2 rounded-md border border-grey-200&quot;]/button[2]/img[@class=&quot;h-9 max-w-32 sm:max-w-56 object-contain object-center sm:block hidden&quot;]</value>
+      <webElementGuid>30a62831-8c3c-4cbd-a9a3-88cb655f08aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar']/div/div/button[2]/img</value>
+      <webElementGuid>05be289a-534a-43ac-ab24-de67d7193624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>0258c84e-9e6e-40bd-9459-0b95ea207014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/panel/assets/1e14f9f7-dff9-4512-8e10-186289920cd6']</value>
+      <webElementGuid>83ca5e31-b364-48be-a95b-178ead3e5e36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -23,13 +23,5 @@ WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/login/button_Latest Alerts'))
-
-WebUI.setText(findTestObject('Object Repository/login/input_Multi Hazard Early Warning System_email'), 'admin@example.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/login/input_Multi Hazard Early Warning System_password'), '76urUe1T5hacINtx1jFsbA==')
-
-WebUI.click(findTestObject('Object Repository/login/button_Sign In'))
-
-WebUI.click(findTestObject('Object Repository/login/button_Back'))
+WebUI.click(findTestObject('button_MHEWS Map'))
 

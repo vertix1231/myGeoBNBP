@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Multi Hazard Early Warning System_password</name>
+   <name>input_Multi Hazard Early Warning System_email</name>
    <tag></tag>
-   <elementGuidId>05beaef8-9660-4800-9b2a-60ece9634d1e</elementGuidId>
+   <elementGuidId>1822ecd5-f8fc-4ffc-8bc3-fbda8f6fca7f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#v-0-1-2</value>
+         <key>XPATH</key>
+         <value>//input[@id='v-0-1-1']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='v-0-1-2']</value>
+         <key>CSS</key>
+         <value>#v-0-1-1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,94 +23,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5838d84d-9b3a-4a71-b792-da13b742a6d7</webElementGuid>
+      <webElementGuid>e19d13b4-4339-48f1-85d9-d8e3efe3ebd4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>v-0-1-2</value>
-      <webElementGuid>599062c2-e534-477f-9971-a7b4d9f6c929</webElementGuid>
+      <value>v-0-1-1</value>
+      <webElementGuid>22e0035d-0cdc-419f-a328-dadd0b75abad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>3f6bd08c-1995-4da0-83a0-60d102d40e46</webElementGuid>
+      <value>email</value>
+      <webElementGuid>172a6693-c2d0-492e-ae97-40165c17bab5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>c2515be1-96e3-47c5-b094-f00b87e269d1</webElementGuid>
+      <value>email</value>
+      <webElementGuid>eb0e7d4f-35b1-4a23-8ac5-87508445912e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>060d5bd3-4ae3-48db-9dc0-3aaec65774ea</webElementGuid>
+      <value>Email</value>
+      <webElementGuid>624c299c-bad9-4746-884f-d931f7bdfbbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>relative block w-full disabled:cursor-not-allowed disabled:opacity-75 focus:outline-none border-0 form-input rounded-xs placeholder-gray-400 dark:placeholder-gray-500 text-base px-3.5 py-2.5 shadow-sm bg-grey-200 dark:bg-grey-700 text-grey-black dark:text-white ring-1 ring-inset ring-grey-600 dark:ring-grey-700 focus:ring-2 focus:ring-primary-500 dark:focus:ring-primary-400 placeholder:text-grey-500 pe-12</value>
-      <webElementGuid>51ea3cd6-7718-4182-a619-06cd5206dff1</webElementGuid>
+      <value>relative block w-full disabled:cursor-not-allowed disabled:opacity-75 focus:outline-none border-0 form-input rounded-xs placeholder-gray-400 dark:placeholder-gray-500 text-base px-3.5 py-2.5</value>
+      <webElementGuid>63dc9d09-75aa-4619-9565-7d282085285f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>12435687</value>
-      <webElementGuid>9276ed4e-fe46-41bf-9f4d-c45b6796c313</webElementGuid>
+      <value>admin@example.com</value>
+      <webElementGuid>c5b6f2d1-f4e0-4444-9f28-6e2ffc0b81f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;v-0-1-2&quot;)</value>
-      <webElementGuid>52ef955e-9f7c-4fdb-ae08-1fb2f7dc2da1</webElementGuid>
+      <value>id(&quot;v-0-1-1&quot;)</value>
+      <webElementGuid>3d2f6272-bae9-4bcb-8718-53c5b0e2447e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='v-0-1-2']</value>
-      <webElementGuid>f20f5480-da5d-466c-8c3e-65bb1de35f90</webElementGuid>
+      <value>//input[@id='v-0-1-1']</value>
+      <webElementGuid>6d9dfd42-9cc2-4c03-b5c5-822db3fa5b89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__nuxt']/div/div/div/div/form/div[2]/div[2]/div/input</value>
-      <webElementGuid>2de661f5-1f82-44d8-b3aa-12824d7f1ff9</webElementGuid>
+      <value>//div[@id='__nuxt']/div/div/div/div/form/div/div[2]/div/input</value>
+      <webElementGuid>77c991d4-58e4-4cdd-8006-bb5460d846f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[2]/div/input</value>
-      <webElementGuid>3a41ea42-74b2-4540-a637-eafa77b6a99a</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>a5825b25-8e68-44c7-af18-20dfdc0b1f39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'v-0-1-2' and @name = 'password' and @type = 'password' and @placeholder = 'Password']</value>
-      <webElementGuid>6b7436fb-9b27-42b3-8629-ce57828fcc44</webElementGuid>
+      <value>//input[@id = 'v-0-1-1' and @name = 'email' and @type = 'email' and @placeholder = 'Email']</value>
+      <webElementGuid>424a419c-a84b-446b-9fb1-5d15f3cfbd6d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

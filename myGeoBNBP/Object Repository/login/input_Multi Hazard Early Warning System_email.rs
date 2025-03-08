@@ -6,12 +6,12 @@
    <elementGuidId>57346d42-dda0-4d19-99c2-41b13f54e7f2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='v-0-1-1']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#v-0-1-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='v-0-1-1']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a642bb13-623d-46c9-ae01-907872e8c466</webElementGuid>
+      <webElementGuid>22ab1379-5d25-4e41-9388-296c1a24c1c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>v-0-1-1</value>
-      <webElementGuid>e9c649d4-55d7-4831-8703-7a8f5b605acb</webElementGuid>
+      <webElementGuid>3920517f-a838-4389-bfac-b6d43ad5ec10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>c5fd342e-c431-4cb9-b129-bb47de014564</webElementGuid>
+      <webElementGuid>96afa5b2-fc1a-48ec-9451-2c76ee96b7e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>type</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>a13205bf-c3ab-4818-882c-38143a113964</webElementGuid>
+      <webElementGuid>6febd6e9-249f-47bc-a3ac-3c65a2f60adc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,23 +55,23 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Email</value>
-      <webElementGuid>3ac84cd0-05e3-466c-bb8a-32a36b237135</webElementGuid>
+      <webElementGuid>7f5d22a2-f269-41fc-80eb-6652ffe865e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>relative block w-full disabled:cursor-not-allowed disabled:opacity-75 focus:outline-none border-0 form-input rounded-xs placeholder-gray-400 dark:placeholder-gray-500 text-base px-3.5 py-2.5</value>
-      <webElementGuid>afcff14b-9ab4-4a4e-abd0-f74ce22020eb</webElementGuid>
+      <value>relative block w-full disabled:cursor-not-allowed disabled:opacity-75 focus:outline-none border-0 form-input rounded-xs placeholder-gray-400 dark:placeholder-gray-500 text-base px-3.5 py-2.5 shadow-sm bg-grey-200 dark:bg-grey-700 text-grey-black dark:text-white ring-1 ring-inset ring-grey-600 dark:ring-grey-700 focus:ring-2 focus:ring-primary-500 dark:focus:ring-primary-400 placeholder:text-grey-500</value>
+      <webElementGuid>9e747b6e-c957-4093-a49e-284cd6641ac8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>admin@example.com</value>
-      <webElementGuid>cfd8a21b-1bc2-4119-94ab-2d0dd53005e9</webElementGuid>
+      <value>import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase import static com.kms.katalon.core.testdata.TestDataFactory.findTestData import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile import com.kms.katalon.core.model.FailureHandling as FailureHandling import com.kms.katalon.core.testcase.TestCase as TestCase import com.kms.katalon.core.testdata.TestData as TestData import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW import com.kms.katalon.core.testobject.TestObject as TestObject import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows import internal.GlobalVariable as GlobalVariable import org.openqa.selenium.Keys as Keys  WebUI.openBrowser('')  WebUI.navigateToUrl(GlobalVariable.url)  WebUI.maximizeWindow()  WebUI.mouseOver(findTestObject('landing0/button_Latest Alerts'))  //WebUI.scrollToElement(findTestObject('landing0/button_Latest Alerts'), 10000) WebUI.click(findTestObject('Object Repository/landing0/button_Latest Alerts'))  WebUI.setText(findTestObject('Object Repository/landing0/input_Multi Hazard Early Warning System Map_email'), GlobalVariable.username)  WebUI.setEncryptedText(findTestObject('Object Repository/landing0/input_Multi Hazard Early Warning System Map_2d5bf2'),      '76urUe1T5hacINtx1jFsbA==')  WebUI.click(findTestObject('Object Repository/landing0/button_Sign In'))  WebUI.click(findTestObject('Object Repository/login/button_Back'))</value>
+      <webElementGuid>25ee6275-782d-404e-98ff-873a71234019</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;v-0-1-1&quot;)</value>
-      <webElementGuid>8d85ae54-2a7b-4f36-8b46-f3e4dff13147</webElementGuid>
+      <webElementGuid>394b850c-6ec6-47e2-8d99-ff74dfc1c494</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='v-0-1-1']</value>
-      <webElementGuid>3e7e41dd-c7ba-44bd-bb20-c8cba34be51a</webElementGuid>
+      <webElementGuid>e28b4681-e91a-4c4b-a1cf-e12000dd7bef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__nuxt']/div/div/div/div/form/div/div[2]/div/input</value>
-      <webElementGuid>fab18470-2730-4fa8-be3f-9dae59e3dbc2</webElementGuid>
+      <webElementGuid>98b330cb-60c1-4d66-97d1-595d78460480</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>3b851cf8-f929-46f3-b032-a3dea59e05a8</webElementGuid>
+      <webElementGuid>8531d781-e04a-4310-9ca1-be3db3b298e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'v-0-1-1' and @name = 'email' and @type = 'email' and @placeholder = 'Email']</value>
-      <webElementGuid>1782a9ec-2a03-4fc9-addb-69e1c6f1aa66</webElementGuid>
+      <webElementGuid>768ccb6c-b633-47d3-a3a0-c3b877489ebb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

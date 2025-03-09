@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>Pengaturan Profil</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>53c5d86f-a723-4456-a471-2052b911540b</testCaseGuid>
+   <testCaseGuid>af7a8103-42c4-4bb3-9778-98fa720d7d55</testCaseGuid>
 </TestCaseEntity>

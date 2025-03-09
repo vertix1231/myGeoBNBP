@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tsunami Hazard Information</name>
+   <tag></tag>
+   <elementGuidId>9af5d8d0-909f-4dca-ad35-90efb92c85a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#headlessui-listbox-button-v-0-5-0-0 >> internal:role=button[name=&quot;Tsunami Hazard Information&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e8113ecf-4aba-49ce-b595-95c2a2ef6f95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative disabled:cursor-not-allowed disabled:opacity-75 focus:outline-none border-0 h-10 w-56 font-medium inline-flex items-center text-left cursor-default rounded-sm text-sm gap-x-1.5 px-2 py-[10px] shadow-sm dark:bg-gray-900 dark:text-white ring-1 ring-inset dark:ring-gray-700 dark:focus:ring-primary-400 bg-transparent ring-grey-500 focus:ring-1 focus:ring-grey-500 text-grey-800 pe-9</value>
+      <webElementGuid>9157f882-6b97-4b21-8e85-8aab206911d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b57c9600-2653-4181-be9c-d6a9187bc83c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tsunami Hazard Information</value>
+      <webElementGuid>6522678f-5eac-4e03-84ec-e909a2d4fcae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-listbox-button-v-0-5-0-0&quot;)/button[@class=&quot;relative disabled:cursor-not-allowed disabled:opacity-75 focus:outline-none border-0 h-10 w-56 font-medium inline-flex items-center text-left cursor-default rounded-sm text-sm gap-x-1.5 px-2 py-[10px] shadow-sm dark:bg-gray-900 dark:text-white ring-1 ring-inset dark:ring-gray-700 dark:focus:ring-primary-400 bg-transparent ring-grey-500 focus:ring-1 focus:ring-grey-500 text-grey-800 pe-9&quot;]</value>
+      <webElementGuid>5c9839be-3b1a-4bb4-8379-8e2941858e49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>1779712a-aede-44b4-a096-d7705d1c8cb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-listbox-button-v-0-5-0-0']/button</value>
+      <webElementGuid>9f0e66db-d1ab-437a-af16-0fc311f66e7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Early Warning'])[1]/preceding::button[1]</value>
+      <webElementGuid>00892e73-924e-4719-82fd-7870661404bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>9cbf53a0-87f7-41b8-aea4-ccf5c56a3000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Tsunami Hazard Information' or . = 'Tsunami Hazard Information')]</value>
+      <webElementGuid>5b3d074b-75f0-4c8f-a47f-338c86024b7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

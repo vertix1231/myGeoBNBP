@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_More Detail_bg-transparent hoverbg-w_8a6e27_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>7b5d9b65-37ad-4598-8b72-f480e6b8eae4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div[2]/div[7]/div/button[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>button:nth-child(5)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6cfcbfae-c653-424b-88af-834e6b62d0f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-transparent hover:bg-white dark:hover:bg-black p-2 rounded-xs</value>
+      <webElementGuid>00f1862a-4d59-4728-94b5-9db2e980d63b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;fixed top-0 left-0 w-screen h-screen flex flex-col items-start&quot;]/div[@class=&quot;z-10 absolute bottom-8 right-6&quot;]/div[@class=&quot;flex gap-2 bg-white/40 dark:bg-black/30 rounded-xs p-2&quot;]/button[@class=&quot;bg-transparent hover:bg-white dark:hover:bg-black p-2 rounded-xs&quot;]</value>
+      <webElementGuid>762c6d97-665d-45b4-bcf2-871eb61095cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div[2]/div[7]/div/button[4]</value>
+      <webElementGuid>a96dd3b9-9b33-47b8-b43e-86845dc2a7c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Detail'])[1]/following::button[19]</value>
+      <webElementGuid>23a25259-cc02-400f-9a3e-9db89d72c6b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Popup'])[1]/following::button[21]</value>
+      <webElementGuid>29801437-a10f-4d34-8d4d-a3c46e913046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]</value>
+      <webElementGuid>e93a9574-1bde-47b5-85b5-54358b3f497d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

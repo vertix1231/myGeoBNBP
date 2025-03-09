@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>Notifikasi</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>53c5d86f-a723-4456-a471-2052b911540b</testCaseGuid>
+   <testCaseGuid>4610baf0-1671-4744-9440-152fca1f5288</testCaseGuid>
 </TestCaseEntity>

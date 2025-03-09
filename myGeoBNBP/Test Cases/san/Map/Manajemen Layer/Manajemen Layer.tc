@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>Manajemen Layer</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>53c5d86f-a723-4456-a471-2052b911540b</testCaseGuid>
+   <testCaseGuid>11a9c824-bcd9-456e-a423-feea1ff3f6c7</testCaseGuid>
 </TestCaseEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>Notifikasi Peringatan Aktif</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>53c5d86f-a723-4456-a471-2052b911540b</testCaseGuid>
+   <testCaseGuid>62088ad6-fd48-4f07-ab71-d42a1c2cb92c</testCaseGuid>
 </TestCaseEntity>

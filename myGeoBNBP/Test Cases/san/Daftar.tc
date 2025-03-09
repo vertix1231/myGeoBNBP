@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>Daftar</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>53c5d86f-a723-4456-a471-2052b911540b</testCaseGuid>
+   <testCaseGuid>cffb2bb5-42b0-444b-ac17-f94bcbd5b666</testCaseGuid>
 </TestCaseEntity>

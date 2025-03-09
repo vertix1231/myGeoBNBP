@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Share Map_cursor-pointer border border-_2abaa6</name>
+   <tag></tag>
+   <elementGuidId>94a394a0-8cc2-4d65-bea6-7be842eb4888</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='headlessui-popover-button-v-0-2-0-2']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cursor-pointer.border.border-grey-500.rounded-sm.p-2.h-10.w-10.flex.items-center.justify-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#headlessui-popover-button-v-0-2-0-2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>58686056-122f-400d-8ae7-a5286274da73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer border border-grey-500 rounded-sm p-2 h-10 w-10 flex items-center justify-center</value>
+      <webElementGuid>11a50af1-be89-4390-974e-37b5e8dda0c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-popover-button-v-0-2-0-2&quot;)/div[@class=&quot;cursor-pointer border border-grey-500 rounded-sm p-2 h-10 w-10 flex items-center justify-center&quot;]</value>
+      <webElementGuid>67846adc-1c8f-436f-95fb-b85b26140a9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='headlessui-popover-button-v-0-2-0-2']/div</value>
+      <webElementGuid>bc14a517-53d1-4bf9-9f6f-a0ead70a56d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share Map'])[1]/following::div[2]</value>
+      <webElementGuid>0bf46387-9315-4be8-9977-d294001d7491</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Popup'])[1]/preceding::div[18]</value>
+      <webElementGuid>28dc6dd7-52c6-4b55-8ea7-64a0bf855857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Detail'])[1]/preceding::div[20]</value>
+      <webElementGuid>c03688e2-99f4-446b-bc09-8ecbed71dbc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>f0ce3af3-45fa-49de-8061-b2174962b315</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

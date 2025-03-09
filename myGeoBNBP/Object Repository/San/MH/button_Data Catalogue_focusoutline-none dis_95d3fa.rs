@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Data Catalogue_focusoutline-none dis_95d3fa</name>
+   <tag></tag>
+   <elementGuidId>71409f46-752f-4399-bf8c-fc1654f25fa2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[13]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.p-2 > .focus\:outline-none >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5ce8f085-1d58-4a1e-92fd-deab438167f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>97e58368-d576-4011-af09-252043335df0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>focus:outline-none disabled:cursor-not-allowed disabled:opacity-75 aria-disabled:cursor-not-allowed aria-disabled:opacity-75 flex-shrink-0 font-medium text-sm gap-x-1.5 shadow-sm disabled:bg-primary-500 aria-disabled:bg-primary-500 dark:disabled:bg-primary-400 dark:aria-disabled:bg-primary-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-500 dark:focus-visible:outline-primary-400 inline-flex items-center text-brand-500 dark:text-brand-500 bg-brand-50 dark:bg-brand-950 hover:bg-white dark:hover:bg-black p-2 rounded-xs</value>
+      <webElementGuid>e34e33dc-b9d1-474b-8207-d3e007c884cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;fixed top-0 left-0 w-screen h-screen flex flex-col items-start&quot;]/div[@class=&quot;left-[20.5rem] z-10 absolute flex flex-col gap-2 shrink top-[7.5rem] print:top-6 left-6 transition-all ease-in-out duration-300&quot;]/div[@class=&quot;p-2 rounded-xs bg-white/40 dark:bg-black/30&quot;]/button[@class=&quot;focus:outline-none disabled:cursor-not-allowed disabled:opacity-75 aria-disabled:cursor-not-allowed aria-disabled:opacity-75 flex-shrink-0 font-medium text-sm gap-x-1.5 shadow-sm disabled:bg-primary-500 aria-disabled:bg-primary-500 dark:disabled:bg-primary-400 dark:aria-disabled:bg-primary-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-500 dark:focus-visible:outline-primary-400 inline-flex items-center text-brand-500 dark:text-brand-500 bg-brand-50 dark:bg-brand-950 hover:bg-white dark:hover:bg-black p-2 rounded-xs&quot;]</value>
+      <webElementGuid>8d7e2239-7e91-499b-941b-ff53b45e985a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[13]</value>
+      <webElementGuid>db996dd4-8ec8-4b94-9a59-2b2159bd2db3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div[2]/div[3]/div/button</value>
+      <webElementGuid>9f56964a-060f-45d9-b204-d4bcb8fd257e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Catalogue'])[1]/following::button[1]</value>
+      <webElementGuid>5e828751-598b-4ee9-9939-1d621d698200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tsunami'])[1]/following::button[2]</value>
+      <webElementGuid>507b1e20-0a46-4ddc-a245-e42a2e00be6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/button</value>
+      <webElementGuid>b51ddaae-94d4-4ca9-a276-59837812cf68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>0da3104a-cb35-4eb7-b1de-4086ee328d76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

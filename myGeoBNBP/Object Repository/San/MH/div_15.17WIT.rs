@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_15.17WIT</name>
+   <tag></tag>
+   <elementGuidId>7a0bbb5b-ce73-4ebc-b970-72ab64fd044d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-popover-panel-v-0-2-0-9']/div/div[2]/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;15.17WIT&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3ca95571-062e-42f9-a24d-b7c90e95bc2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-grey-500 text-grey-800 cursor-pointer px-4 py-2 border rounded-sm text-xs grow sm:text-2xs text-center</value>
+      <webElementGuid>3474906e-5848-49c6-b2eb-21bb48600edd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>15.17WIT</value>
+      <webElementGuid>928507dc-9111-45f5-b88b-44c0c7054981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-popover-panel-v-0-2-0-9&quot;)/div[@class=&quot;relative bg-grey-100 bg-opacity-80 p-2 rounded-xs shadow-lg space-y-2&quot;]/div[@class=&quot;flex gap-1&quot;]/div[@class=&quot;border-grey-500 text-grey-800 cursor-pointer px-4 py-2 border rounded-sm text-xs grow sm:text-2xs text-center&quot;]</value>
+      <webElementGuid>11de479a-64f4-467b-bb5a-5f7c4bf30e03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-popover-panel-v-0-2-0-9']/div/div[2]/div[4]</value>
+      <webElementGuid>38165326-a3fa-42f9-8670-9d70c8b21051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::div[5]</value>
+      <webElementGuid>c3bd4997-a571-43ca-88e7-a00cbea1866a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share Map'])[1]/following::div[13]</value>
+      <webElementGuid>50864c16-b614-4272-9d59-9d5cc818a1c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Popup'])[1]/preceding::div[15]</value>
+      <webElementGuid>4e9e4838-982a-4b3c-80fa-2359e4e37278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Detail'])[1]/preceding::div[17]</value>
+      <webElementGuid>bc02595b-472e-4e76-8be9-77d3aaa39338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]</value>
+      <webElementGuid>5beca182-91c9-471a-8be4-7fef7a51b527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '15.17WIT' or . = '15.17WIT')]</value>
+      <webElementGuid>cdb678e4-ba48-4585-9c47-62c249c8220f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

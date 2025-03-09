@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Flood Hazard Information</name>
+   <tag></tag>
+   <elementGuidId>3dfd0e0c-1f68-4f20-a256-dfdd0c9f380a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#headlessui-listbox-button-v-0-5-0-0 >> internal:role=button[name=&quot;Flood Hazard Information&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9726ed64-61ef-4a8a-9e42-62307cc5cf41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative disabled:cursor-not-allowed disabled:opacity-75 focus:outline-none border-0 h-10 w-56 font-medium inline-flex items-center text-left cursor-default rounded-sm text-sm gap-x-1.5 px-2 py-[10px] shadow-sm dark:bg-gray-900 dark:text-white ring-1 ring-inset dark:ring-gray-700 dark:focus:ring-primary-400 bg-transparent ring-grey-500 focus:ring-1 focus:ring-grey-500 text-grey-800 pe-9</value>
+      <webElementGuid>3868e81b-8c34-473a-a155-04286897b0d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9507676a-fd57-426d-9358-3223d55a153a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Flood Hazard Information</value>
+      <webElementGuid>37e2def0-cf87-40dd-8433-ea24b8639dee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-listbox-button-v-0-5-0-0&quot;)/button[@class=&quot;relative disabled:cursor-not-allowed disabled:opacity-75 focus:outline-none border-0 h-10 w-56 font-medium inline-flex items-center text-left cursor-default rounded-sm text-sm gap-x-1.5 px-2 py-[10px] shadow-sm dark:bg-gray-900 dark:text-white ring-1 ring-inset dark:ring-gray-700 dark:focus:ring-primary-400 bg-transparent ring-grey-500 focus:ring-1 focus:ring-grey-500 text-grey-800 pe-9&quot;]</value>
+      <webElementGuid>542d9617-4c69-409c-ac13-a11786d99dbb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>678b69d8-dc49-423b-b5b6-410d21c4292c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-listbox-button-v-0-5-0-0']/button</value>
+      <webElementGuid>0288c0cb-53df-4e67-aadf-393f116178c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warnings and Vulnerable Areas'])[1]/preceding::button[1]</value>
+      <webElementGuid>c1391cbb-60e7-4e90-851f-4ddbb8df7cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>2a99ac13-9166-48e8-aff1-c145d3e5c6fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Flood Hazard Information' or . = 'Flood Hazard Information')]</value>
+      <webElementGuid>8910fa46-dea7-49f0-8e14-fcd1aabf79cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

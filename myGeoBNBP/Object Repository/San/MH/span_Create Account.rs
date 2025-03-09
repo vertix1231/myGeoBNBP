@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Create Account</name>
+   <tag></tag>
+   <elementGuidId>88aa0a80-332a-4888-9828-58216b86cf12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/div/div/div/form/div[5]/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Create Account&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>743e4c60-d610-49cc-9cca-1e57bd8af3c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Account</value>
+      <webElementGuid>2727694d-cb9f-4fec-b25b-cb9db0f96174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;flex sm:p-6 h-screen&quot;]/div[@class=&quot;flex justify-end w-full rounded-lg bg-grey-100 sm:bg-cover sm:bg-center&quot;]/div[@class=&quot;w-full sm:w-1/2 sm:p-14&quot;]/div[@class=&quot;flex flex-col bg-grey-100 rounded-xs h-full p-4 sm:px-16 sm:py-8 overflow-y-auto justify-center&quot;]/form[@class=&quot;flex flex-col space-y-3 mb-7 px-10&quot;]/div[@class=&quot;flex gap-2 sm:p-2 w-full overflow-hidden&quot;]/button[@class=&quot;focus:outline-none disabled:cursor-not-allowed disabled:opacity-75 aria-disabled:cursor-not-allowed aria-disabled:opacity-75 flex-shrink-0 font-medium rounded-xs text-base gap-x-2.5 px-3.5 py-2.5 shadow-sm text-white dark:text-gray-900 bg-primary-500 hover:bg-primary-600 disabled:bg-primary-500 aria-disabled:bg-primary-500 dark:bg-primary-400 dark:hover:bg-primary-500 dark:disabled:bg-primary-400 dark:aria-disabled:bg-primary-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-500 dark:focus-visible:outline-primary-400 w-full flex justify-center items-center flex-1&quot;]/span[1]</value>
+      <webElementGuid>5a7ba720-328e-4872-87d8-78d1a4506c4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/div/div/div/form/div[5]/button[2]/span</value>
+      <webElementGuid>bace9b1b-2173-4b2e-a9f1-8dbdfc29c26b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Sign In'])[1]/following::span[1]</value>
+      <webElementGuid>a9508360-d144-4cb2-97ff-bfb9fe5b0a9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Account'])[1]/following::span[5]</value>
+      <webElementGuid>6ea4ba92-a3b5-4088-affd-00470b1b601a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>ae069383-c33c-4aa1-bafb-97cd2209f355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Create Account' or . = 'Create Account')]</value>
+      <webElementGuid>726b8d3c-35f5-4c1f-92a2-aa953176127a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

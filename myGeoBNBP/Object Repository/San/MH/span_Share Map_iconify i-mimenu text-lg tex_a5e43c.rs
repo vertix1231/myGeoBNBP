@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Share Map_iconify i-mimenu text-lg tex_a5e43c</name>
+   <tag></tag>
+   <elementGuidId>638f6ebf-2e99-4e21-92f3-208a2ae967f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/div[2]/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>button >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c7792765-7010-46d2-aa77-0669584f66ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iconify i-mi:menu text-lg text-grey-950</value>
+      <webElementGuid>e9d196dc-f4fa-4606-a491-fd29af89967c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c3c53e40-b807-4344-ae7b-aae95b6eddda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;z-50 flex flex-col print:hidden&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;w-0 p-0 relative bg-grey-100 rounded-xs flex items-center justify-between z-50 min-w-fit transition-all duration-300 ease-in-out&quot;]/div[@class=&quot;flex items-center gap-2&quot;]/div[@class=&quot;relative flex items-center p-3 gap-3 h-12&quot;]/button[@class=&quot;flex items-center&quot;]/span[@class=&quot;iconify i-mi:menu text-lg text-grey-950&quot;]</value>
+      <webElementGuid>5404e514-185d-4aed-932a-29c98b1b91e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/div[2]/div/div/div/button/span</value>
+      <webElementGuid>443134c1-555b-489d-a886-737ba0ebc4c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>ee7111a2-2004-4875-9263-bf2c223f89dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

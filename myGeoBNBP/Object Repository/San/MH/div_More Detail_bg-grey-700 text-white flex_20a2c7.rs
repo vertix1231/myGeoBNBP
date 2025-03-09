@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_More Detail_bg-grey-700 text-white flex_20a2c7</name>
+   <tag></tag>
+   <elementGuidId>eb445067-a01c-4b3f-adf7-18a78a8b07cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-panel-v-0-2-1-14']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.bg-grey-700.text-white.flex.items-center.gap-2.p-2.rounded-xxs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.bg-grey-700</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5d507828-bfcc-4256-bb4b-82f38fa29050</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-grey-700 text-white flex items-center gap-2 p-2 rounded-xxs</value>
+      <webElementGuid>ae067ba0-231d-45b3-b01d-7b385df368e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-v-0-2-1-14&quot;)/div[@class=&quot;flex rounded-lg overflow-hidden h-full&quot;]/div[@class=&quot;w-80 p-3 bg-grey-200 overflow-y-scroll space-y-2 sm:block hidden&quot;]/div[@class=&quot;ring-2 ring-brand-500 bg-white/45 p-1 w-full rounded-xs shadow-sm cursor-pointer flex gap-2&quot;]/div[@class=&quot;bg-grey-700 text-white flex items-center gap-2 p-2 rounded-xxs&quot;]</value>
+      <webElementGuid>c059ed65-4050-482a-81c0-ad23715597e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-v-0-2-1-14']/div/div/div/div</value>
+      <webElementGuid>76b34d9f-3c76-411f-9834-64e70d222b90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Detail'])[1]/following::div[43]</value>
+      <webElementGuid>ba88f89a-b6d4-4e6d-a782-84cda7f34508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Popup'])[1]/following::div[45]</value>
+      <webElementGuid>aa2f8aec-8f56-41d3-a403-c8c88475cec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard MHEWS'])[1]/preceding::div[11]</value>
+      <webElementGuid>a830b6d0-c4f2-4028-91b2-283da00c3982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::div[11]</value>
+      <webElementGuid>c6375b92-c1aa-47c9-8b10-965a650a91e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>b35fcabf-3f1d-472a-97f5-9e5be9c3bcb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

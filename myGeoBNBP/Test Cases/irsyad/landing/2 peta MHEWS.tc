@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Tsunami</name>
+   <name>2 peta MHEWS</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>fa5787cb-4437-4f3c-b528-c773c5735abc</testCaseGuid>
+   <testCaseGuid>af3323aa-ffb1-4eb2-b95b-326b0bc9e91b</testCaseGuid>
 </TestCaseEntity>

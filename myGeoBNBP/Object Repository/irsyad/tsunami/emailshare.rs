@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>emailshare</name>
+   <tag></tag>
+   <elementGuidId>bb3256ef-4924-4069-b30a-50c3b04ea2dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;headlessui-dialog-panel-v-0-2-33&quot;]/div[3]/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>89805c7c-9c1c-4cc4-ba7b-4a3fb5f3fc9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer p-2 bg-white rounded-xs flex items-center justify-center w-10 h-10</value>
+      <webElementGuid>1bb2a045-bffb-4b08-8472-8341fb7b87f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-v-0-2-34&quot;)/div[@class=&quot;px-4 py-3 flex items-center gap-2&quot;]/div[@class=&quot;cursor-pointer p-2 bg-white rounded-xs flex items-center justify-center w-10 h-10&quot;]</value>
+      <webElementGuid>baf0a024-aa6f-4814-b9d9-35ebf4a0f68c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-v-0-2-34']/div[3]/div[4]</value>
+      <webElementGuid>ef6de164-168a-4745-9c68-ba15e7f93e11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WASPADA'])[46]/following::div[5]</value>
+      <webElementGuid>52d53a32-82b0-4d9e-bb76-f373bbcb70d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUMBAR - KOTA-PADANG BAGIAN SELATAN'])[2]/following::div[5]</value>
+      <webElementGuid>b272b791-fed2-426f-a873-0c57fbe66d0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[1]/preceding::div[2]</value>
+      <webElementGuid>58fedcfe-5989-46a0-a98c-9ca8948867f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div[4]</value>
+      <webElementGuid>12533293-4db6-4c89-b65d-54536b5764df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

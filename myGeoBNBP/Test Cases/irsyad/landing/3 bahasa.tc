@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>login tsunami</name>
+   <name>3 bahasa</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>74965b48-b478-4960-aa9b-b1148b6ef300</testCaseGuid>
+   <testCaseGuid>a8456c9a-eb6f-43bf-937d-89d752f4cf58</testCaseGuid>
 </TestCaseEntity>

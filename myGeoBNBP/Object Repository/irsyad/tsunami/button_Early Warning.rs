@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Early Warning</name>
+   <tag></tag>
+   <elementGuidId>65f77e98-a510-404c-8d7b-9a5a43144b17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6ce2b43f-bb2d-4cb7-9821-60f0088734df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative disabled:cursor-not-allowed disabled:opacity-75 focus:outline-none border-0 h-10 w-56 font-medium inline-flex items-center text-left cursor-default rounded-sm text-sm gap-x-1.5 px-2 py-[10px] shadow-sm dark:bg-gray-900 dark:text-white ring-1 ring-inset dark:ring-gray-700 dark:focus:ring-primary-400 bg-transparent ring-grey-500 focus:ring-1 focus:ring-grey-500 text-grey-800 pe-9</value>
+      <webElementGuid>1469936b-26cd-43de-8ef1-ea461d657179</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5f09e345-b19e-4990-8f92-5d5331cd238d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>disabled-attribute</name>
+      <type>Main</type>
+      <value>disabled</value>
+      <webElementGuid>debe7524-2d62-43ce-8870-5dcc155ad525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Early Warning</value>
+      <webElementGuid>9a2d31c3-a8a2-4181-b4a5-a1002dbf6cc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-listbox-button-v-0-2-0-1&quot;)/button[@class=&quot;relative disabled:cursor-not-allowed disabled:opacity-75 focus:outline-none border-0 h-10 w-56 font-medium inline-flex items-center text-left cursor-default rounded-sm text-sm gap-x-1.5 px-2 py-[10px] shadow-sm dark:bg-gray-900 dark:text-white ring-1 ring-inset dark:ring-gray-700 dark:focus:ring-primary-400 bg-transparent ring-grey-500 focus:ring-1 focus:ring-grey-500 text-grey-800 pe-9&quot;]</value>
+      <webElementGuid>925fdf62-3d15-4158-b32b-3e0496390a61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>ca5319fa-7968-43a8-855a-5b095fff3bac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-listbox-button-v-0-2-0-1']/button</value>
+      <webElementGuid>0387ae0d-2720-4415-b021-0657d6a670f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tsunami Hazard Information'])[1]/following::button[1]</value>
+      <webElementGuid>67aa20c5-15c6-4751-aa5c-70fb696752b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Popup'])[1]/preceding::button[5]</value>
+      <webElementGuid>abca5fff-7e67-4233-8a5b-bceda01cecc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/button</value>
+      <webElementGuid>49f0eecb-d565-4816-a690-e20888092b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Early Warning' or . = 'Early Warning')]</value>
+      <webElementGuid>a32caeb3-7d93-4984-a261-57b5c4f59c85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

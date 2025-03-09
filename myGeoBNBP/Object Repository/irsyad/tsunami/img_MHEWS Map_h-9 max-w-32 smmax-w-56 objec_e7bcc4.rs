@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_MHEWS Map_h-9 max-w-32 smmax-w-56 objec_e7bcc4</name>
+   <tag></tag>
+   <elementGuidId>906f8397-9734-4c87-863e-8d3cc6bb9f65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbar']/div/div/button[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0925e261-18d2-4c51-af0c-b29c8fd11915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/panel/assets/1e14f9f7-dff9-4512-8e10-186289920cd6</value>
+      <webElementGuid>c3aadcd9-61ca-4cb7-8956-4be4e6638b17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>/panel/assets/1e14f9f7-dff9-4512-8e10-186289920cd6 1x, /panel/assets/1e14f9f7-dff9-4512-8e10-186289920cd6 2x</value>
+      <webElementGuid>553446e4-6db9-4b50-9318-2f06afe0327e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-9 max-w-32 sm:max-w-56 object-contain object-center sm:block hidden</value>
+      <webElementGuid>596c3664-855f-4966-93d9-efaacaa49a31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar&quot;)/div[@class=&quot;flex items-center gap-1&quot;]/div[@class=&quot;flex items-center gap-2 bg-grey-50 p-2 rounded-md border border-grey-200&quot;]/button[2]/img[@class=&quot;h-9 max-w-32 sm:max-w-56 object-contain object-center sm:block hidden&quot;]</value>
+      <webElementGuid>7a581e24-3470-40e7-9df3-2fdd245ed571</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar']/div/div/button[2]/img</value>
+      <webElementGuid>d7f4db7e-20ac-4455-8f8f-7a46610767da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>24a7739a-feec-430c-ade4-08dbaf05baa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/panel/assets/1e14f9f7-dff9-4512-8e10-186289920cd6']</value>
+      <webElementGuid>dd013a36-4421-4e06-9e5a-2b66ecb661d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

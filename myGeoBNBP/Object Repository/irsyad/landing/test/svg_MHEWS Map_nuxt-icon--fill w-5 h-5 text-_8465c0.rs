@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_MHEWS Map_nuxt-icon--fill w-5 h-5 text-_8465c0</name>
+   <tag></tag>
+   <elementGuidId>e671df6c-c71c-4c05-a598-f7097c9b6731</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;headlessui-listbox-button-v-0-0-0-1&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.nuxt-icon--fill.w-5.h-5.text-grey-700</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>316a3a4f-8d53-40dd-9a02-7bf0e29d89fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>083fe936-ab48-41c6-951a-99db6fc0f445</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>917eb515-286a-41f2-b332-3f53e4d89648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>79172f49-4668-47c6-a3f5-cd92c2d7ab30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nuxt-icon--fill w-5 h-5 text-grey-700</value>
+      <webElementGuid>8fffd6a2-3a32-4f76-b2d5-2f5009a89183</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-listbox-button-v-0-0-0-1&quot;)/svg[@class=&quot;nuxt-icon--fill w-5 h-5 text-grey-700&quot;]</value>
+      <webElementGuid>7421e0d4-a5b4-4d81-9d81-71ecc5b71b7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MHEWS Map'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>1dc60ab1-c4d0-4185-a5fc-2588ca2905e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multi Hazard Early Warning System'])[2]/preceding::*[name()='svg'][4]</value>
+      <webElementGuid>abd4e108-3e07-453e-ac06-5dcffca7d386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitigation'])[1]/preceding::*[name()='svg'][4]</value>
+      <webElementGuid>5a50a522-ace6-4c5e-ae3a-47110582b725</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

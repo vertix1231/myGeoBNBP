@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_More Detail</name>
+   <tag></tag>
+   <elementGuidId>cd8ab42b-0b7c-4b1d-b90a-b9b65dc9200e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div[2]/div/div/div/div[3]/div[2]/div/section/footer/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.rounded-xs.grow.h-9.bg-brand-600.text-sm.font-medium</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ee68d942-1ca4-4fed-a869-9b606fd756e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-xs grow h-9 bg-brand-600 text-sm font-medium</value>
+      <webElementGuid>9b7c6977-2f08-41b6-b881-6c3e0b1dbff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> More Detail </value>
+      <webElementGuid>ed83088c-919b-4323-a652-6f7800a739d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;mt-9 relative&quot;]/div[@class=&quot;fixed top-0 left-0 w-screen h-screen flex flex-col items-start&quot;]/div[@class=&quot;map-wrap&quot;]/div[@class=&quot;map maplibregl-map&quot;]/div[@class=&quot;maplibregl-popup geod-popup maplibregl-popup-anchor-bottom&quot;]/div[@class=&quot;maplibregl-popup-content&quot;]/div[1]/section[@class=&quot;flex w-72 flex-col items-center justify-center gap-3 p-3 overflow-hidden bg-grey-800 rounded-xs text-grey-100&quot;]/footer[@class=&quot;w-full flex items-center pt-2 space-x-2&quot;]/button[@class=&quot;rounded-xs grow h-9 bg-brand-600 text-sm font-medium&quot;]</value>
+      <webElementGuid>3017495c-7cae-4fbf-ba6d-a0f2914a4e4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div[2]/div/div/div/div[3]/div[2]/div/section/footer/button[2]</value>
+      <webElementGuid>0eb6a798-c6b3-47c8-afee-4e742bff4b9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feature'])[1]/following::button[2]</value>
+      <webElementGuid>0a0f7366-8382-431c-9219-629ace13c1f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layer'])[1]/following::button[2]</value>
+      <webElementGuid>59905622-054b-42b0-aa41-10f460912a36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='More Detail']/parent::*</value>
+      <webElementGuid>9f2e9809-198b-4ace-a1c3-dc380f8a63c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/button[2]</value>
+      <webElementGuid>3c8f9c43-3b55-4cef-b1fc-fa3ff7ab3dce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' More Detail ' or . = ' More Detail ')]</value>
+      <webElementGuid>97726679-6b15-40c9-ab4f-d6ffc09da17e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

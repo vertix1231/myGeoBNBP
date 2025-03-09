@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_270 km Tenggara PACITAN-JAWA TIMURTsuna_327471</name>
+   <tag></tag>
+   <elementGuidId>7b9309a3-c27d-4990-8a1f-3b8337a99642</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div[2]/div/div[2]/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>581763b5-b7e7-4e74-91b3-15a710c15fb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-white/45 p-1 w-full rounded-xs shadow-sm cursor-pointer flex gap-2</value>
+      <webElementGuid>00b8b1d4-dbfb-44b6-9e89-ec1825ef1608</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>270 km Tenggara PACITAN-JAWA TIMURTsunami Warning PD-3, 10.060 LS, 112.660 BTMagnitude 8.9 Depth 18 km07/03/2025, 13.50.00 WIB</value>
+      <webElementGuid>6734f62c-5dbd-417d-a9f8-e9855b5a4f5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;mt-9 relative&quot;]/div[@class=&quot;fixed top-0 left-0 w-screen h-screen flex flex-col items-start&quot;]/div[@class=&quot;flex-col z-10 absolute w-[20.75rem] bg-grey-100 rounded-sm left-6 overflow-hidden transition-all ease-in-out duration-300 hidden sm:flex h-[calc(100%-9.5rem)] top-[8rem]&quot;]/div[@class=&quot;flex flex-col gap-3 sm:h-full overflow-hidden&quot;]/div[@class=&quot;flex-1 overflow-y-scroll space-y-2 p-2&quot;]/div[@class=&quot;bg-white/45 p-1 w-full rounded-xs shadow-sm cursor-pointer flex gap-2&quot;]</value>
+      <webElementGuid>b5ca5d95-6145-410a-be17-05fa814e4c99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div[2]/div/div[2]/div/div[2]/div[2]</value>
+      <webElementGuid>7708b274-a709-41d4-9b8f-697bb176d8b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Detail'])[1]/following::div[11]</value>
+      <webElementGuid>88108c51-fca7-4136-ac11-442e9f4a9169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Popup'])[1]/following::div[13]</value>
+      <webElementGuid>5295e8d2-f305-43da-9903-17c03bf72e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div/div[2]/div[2]</value>
+      <webElementGuid>cdf744a2-f891-4ac2-bdbc-74d9bc4c3601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '270 km Tenggara PACITAN-JAWA TIMURTsunami Warning PD-3, 10.060 LS, 112.660 BTMagnitude 8.9 Depth 18 km07/03/2025, 13.50.00 WIB' or . = '270 km Tenggara PACITAN-JAWA TIMURTsunami Warning PD-3, 10.060 LS, 112.660 BTMagnitude 8.9 Depth 18 km07/03/2025, 13.50.00 WIB')]</value>
+      <webElementGuid>224cd0bd-4cce-4617-9ecf-40ec75027f50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

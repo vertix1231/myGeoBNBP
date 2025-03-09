@@ -6,12 +6,12 @@
    <UUID>65e4594b-b00e-4a9c-ac15-2caac54b81ac</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>9.7.2</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>10.1.0</modifiedVersion>
+   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedVersion>9.7.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/fabhiantom/Downloads/myGeoBNBP/myGeoBNBP/myGeoBNBP.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\USER\Desktop\braga bnbp\KATALON STUDIO\myGeoBNBP\myGeoBNBP.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

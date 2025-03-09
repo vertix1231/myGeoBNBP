@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_More Detail_flex-1 bg-grey-50 text-xs_459d6f</name>
+   <tag></tag>
+   <elementGuidId>d118ad2e-61d1-479d-a5a8-f273710a029c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c252fac7-0e5d-4c8a-bb30-58be6238b3dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari daerah berpotensi</value>
+      <webElementGuid>a1f0222f-1174-49d0-aa8d-0c3a954e647a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9081b536-af18-4b45-88ad-a4a9729ba56b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1 bg-grey-50 text-xs text-gray-800 rounded-xxs focus:outline-none</value>
+      <webElementGuid>080bd7da-a65f-40a9-909a-7de2b0ea883f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;mt-9 relative&quot;]/div[@class=&quot;fixed top-0 left-0 w-screen h-screen flex flex-col items-start&quot;]/div[@class=&quot;flex-col z-10 absolute w-[20.75rem] bg-grey-100 rounded-sm left-6 overflow-hidden transition-all ease-in-out duration-300 hidden sm:flex h-[calc(100%-9.5rem)] top-[8rem]&quot;]/div[@class=&quot;flex flex-col gap-3 sm:h-full overflow-hidden&quot;]/div[@class=&quot;flex-1 overflow-y-auto space-y-2 overflow-x-hidden px-2&quot;]/div[@class=&quot;space-y-2&quot;]/div[@class=&quot;relative overflow-hidden&quot;]/div[@class=&quot;absolute top-0 w-full flex gap-1 h-10 bg-grey-200 p-1 rounded-xs&quot;]/div[@class=&quot;flex-1 border border-grey-400 rounded-xs bg-grey-50 p-2 flex items-center gap-2&quot;]/input[@class=&quot;flex-1 bg-grey-50 text-xs text-gray-800 rounded-xxs focus:outline-none&quot;]</value>
+      <webElementGuid>1c48e2f6-33c1-4a7a-a18d-be163b8cc8f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>c9be2e78-5349-421d-9498-897bf8dd7955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div[2]/div/div[2]/div/div[2]/div[2]/div[2]/div[2]/div/input</value>
+      <webElementGuid>06264a96-0523-4414-914b-fbbad88b98eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>a7e1b50d-3db6-459b-8f95-1b0d95e2a20d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Cari daerah berpotensi' and @type = 'text']</value>
+      <webElementGuid>a8fc9085-8745-40d1-88ea-0154e947160b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

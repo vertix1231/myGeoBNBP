@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_01.53WITA</name>
+   <tag></tag>
+   <elementGuidId>1ba98ccd-896e-48cf-ab9a-56ff48d5bf7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-popover-panel-v-0-0-0-4']/div/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>695f3795-9a71-4288-8a7b-03c40eef58f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-grey-500 text-grey-800 cursor-pointer px-4 py-2 border rounded-sm text-xs grow sm:text-2xs text-center</value>
+      <webElementGuid>b524b76d-014e-435c-ae12-41fa6c3fcebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>01.53WITA</value>
+      <webElementGuid>5308a104-9f07-4854-8aad-e68d599ada60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-popover-panel-v-0-0-0-4&quot;)/div[@class=&quot;relative bg-grey-100 bg-opacity-80 p-2 rounded-xs shadow-lg space-y-2&quot;]/div[@class=&quot;flex gap-1&quot;]/div[@class=&quot;border-grey-500 text-grey-800 cursor-pointer px-4 py-2 border rounded-sm text-xs grow sm:text-2xs text-center&quot;]</value>
+      <webElementGuid>694b0cae-28f4-49fc-b3d0-1de431de935a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-popover-panel-v-0-0-0-4']/div/div[2]/div[3]</value>
+      <webElementGuid>8257b2c6-981b-4b61-af1d-c2adc3c88bbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::div[4]</value>
+      <webElementGuid>3b578e7d-8f27-4617-aa7f-c7a2e83c0289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MHEWS Map'])[1]/following::div[13]</value>
+      <webElementGuid>def0679f-e03d-46ce-8e21-f9798818d4dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multi Hazard Early Warning System'])[2]/preceding::div[6]</value>
+      <webElementGuid>b3dc504d-9499-46dc-916a-40312a1910d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitigation'])[1]/preceding::div[8]</value>
+      <webElementGuid>a5ea2c89-a9cf-42e3-9d1f-457212a07fe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div[3]</value>
+      <webElementGuid>3f9acd8a-f6db-4efc-8d86-c729cf19d38a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '01.53WITA' or . = '01.53WITA')]</value>
+      <webElementGuid>f8ae79fb-0df5-49dd-8d8f-c752691dad1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1 Days AgoWarning Tsunami PD-4Warning T_df214e_1</name>
+   <tag></tag>
+   <elementGuidId>b95b31ba-c3e8-493e-adba-e050e5090313</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-popover-panel-v-0-2-0-8']/div/div[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>55166e21-f81b-4f5b-8353-78097dbb603c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-white/45 cursor-pointer p-2 rounded-xs border bg-white/45 shadow-sm flex gap-2 items-center</value>
+      <webElementGuid>d0342678-380d-4a05-927f-74671c3e4bad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>disabled</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>55457971-22c6-4e70-9a5b-43f3934b0969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 Days AgoWarning Tsunami PD-4Warning Tsunami PD-4</value>
+      <webElementGuid>21692e92-98bc-4c6d-a36d-f7f109398aa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-popover-panel-v-0-2-0-8&quot;)/div[@class=&quot;relative bg-grey-100 px-2 pb rounded-xs shadow-lg space-y-2 max-h-[50dvh] overflow-y-auto&quot;]/div[@class=&quot;space-y-2&quot;]/div[@class=&quot;space-y-2 max-h-80 overflow-y-auto&quot;]/div[@class=&quot;border-white/45 cursor-pointer p-2 rounded-xs border bg-white/45 shadow-sm flex gap-2 items-center&quot;]</value>
+      <webElementGuid>75434d73-ebca-4fa6-a315-708b48cc9451</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-popover-panel-v-0-2-0-8']/div/div[3]/div/div</value>
+      <webElementGuid>ba9e5466-7670-4384-8a30-48c17dc26cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::div[7]</value>
+      <webElementGuid>7c3b474d-a905-4076-b960-e4ee4076d48c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Early Warning'])[1]/following::div[19]</value>
+      <webElementGuid>e1eb55f6-e6b3-48cd-970b-c9615d00ecdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Popup'])[1]/preceding::div[41]</value>
+      <webElementGuid>28a96cee-1383-465a-abe1-f2e099a7328c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Detail'])[1]/preceding::div[43]</value>
+      <webElementGuid>102b0d3d-339a-4994-8ee0-4650af510879</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div</value>
+      <webElementGuid>2e942972-abab-4988-a3ac-c3aac155fa79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1 Days AgoWarning Tsunami PD-4Warning Tsunami PD-4' or . = '1 Days AgoWarning Tsunami PD-4Warning Tsunami PD-4')]</value>
+      <webElementGuid>6d4e0955-9421-47e1-b165-33d439c4054c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

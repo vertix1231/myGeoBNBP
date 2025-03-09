@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Virtual Pusdalops</name>
+   <tag></tag>
+   <elementGuidId>a69cc78b-0214-4f0b-b565-8f4c0a03137a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>895c7bd7-443d-4784-8333-07c12fef6a33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3d632e57-55e8-4873-972f-35259d2c2ae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>focus:outline-none disabled:cursor-not-allowed disabled:opacity-75 aria-disabled:cursor-not-allowed aria-disabled:opacity-75 flex-shrink-0 flex-1 h-9 justify-center whitespace-nowrap font-medium rounded-sm text-sm gap-x-1.5 px-2.5 py-1.5 shadow-sm text-white disabled:text-grey-500 bg-brand-500 hover:bg-brand-600 disabled:bg-grey-400 aria-disabled:bg-grey-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-500 inline-flex items-center</value>
+      <webElementGuid>a335f911-1987-4816-b31e-391ae1ad6248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Virtual Pusdalops</value>
+      <webElementGuid>570c2dd1-202c-4c45-85a7-6b0e56163322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;mt-9 relative&quot;]/div[@class=&quot;fixed top-0 left-0 w-screen h-screen flex flex-col items-start&quot;]/div[@class=&quot;flex-col z-10 absolute w-[20.75rem] bg-grey-100 rounded-sm left-6 overflow-hidden transition-all ease-in-out duration-300 hidden sm:flex h-[calc(100%-9.5rem)] top-[8rem]&quot;]/div[@class=&quot;flex flex-col gap-3 sm:h-full overflow-hidden&quot;]/div[@class=&quot;w-full hidden sm:flex flex-col gap-2 p-2 border-t border-grey-200&quot;]/div[@class=&quot;w-full flex gap-1&quot;]/button[@class=&quot;focus:outline-none disabled:cursor-not-allowed disabled:opacity-75 aria-disabled:cursor-not-allowed aria-disabled:opacity-75 flex-shrink-0 flex-1 h-9 justify-center whitespace-nowrap font-medium rounded-sm text-sm gap-x-1.5 px-2.5 py-1.5 shadow-sm text-white disabled:text-grey-500 bg-brand-500 hover:bg-brand-600 disabled:bg-grey-400 aria-disabled:bg-grey-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-500 inline-flex items-center&quot;]</value>
+      <webElementGuid>1376b556-8066-4aea-8b78-aaf95314bcd4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>283d8fac-06e9-4590-bd2a-948b808bc77c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div[2]/div/div[2]/div/div[3]/div/button</value>
+      <webElementGuid>118fe57d-204d-4af7-ad9b-030e5aff26be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIAGA'])[2]/following::button[1]</value>
+      <webElementGuid>914e3435-2122-4c23-9297-abb9331330af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BALI - BULELENG BAGIAN TIMUR'])[1]/following::button[1]</value>
+      <webElementGuid>ed794c4b-10a4-49a7-b099-6c3ee6a23f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dissemination'])[1]/preceding::button[1]</value>
+      <webElementGuid>202639bc-d9eb-4376-a35a-727150bdc128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>18051a22-297c-4e9f-989e-ba296d0ddbb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Virtual Pusdalops' or . = 'Virtual Pusdalops')]</value>
+      <webElementGuid>6e2cd86d-89db-4a9f-997d-d1f0091ef3c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

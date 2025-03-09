@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_More Detail_border border-grey-200 r_99f1f3</name>
+   <tag></tag>
+   <elementGuidId>26bee664-db86-48ee-9e6b-3e9509281616</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div[2]/div/div[2]/div/div[2]/div[2]/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.border.border-grey-200.rounded-xs.p-2.flex.items-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>856f4e90-da8a-44dc-aefa-a822cbd64e3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border border-grey-200 rounded-xs p-2 flex items-center</value>
+      <webElementGuid>5d6eeff2-3ef1-41a1-93b9-f8aae2fdb296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;mt-9 relative&quot;]/div[@class=&quot;fixed top-0 left-0 w-screen h-screen flex flex-col items-start&quot;]/div[@class=&quot;flex-col z-10 absolute w-[20.75rem] bg-grey-100 rounded-sm left-6 overflow-hidden transition-all ease-in-out duration-300 hidden sm:flex h-[calc(100%-9.5rem)] top-[8rem]&quot;]/div[@class=&quot;flex flex-col gap-3 sm:h-full overflow-hidden&quot;]/div[@class=&quot;flex-1 overflow-y-auto space-y-2 overflow-x-hidden px-2&quot;]/div[@class=&quot;space-y-2&quot;]/div[@class=&quot;relative overflow-hidden&quot;]/div[@class=&quot;flex gap-1 h-10&quot;]/button[@class=&quot;border border-grey-200 rounded-xs p-2 flex items-center&quot;]</value>
+      <webElementGuid>5fb9e55a-d9cf-488c-82ae-a8be17f46b42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div[2]/div/div[2]/div/div[2]/div[2]/div[2]/div/button</value>
+      <webElementGuid>c88ee73c-526c-47a2-b09b-3601587602b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Detail'])[1]/following::button[2]</value>
+      <webElementGuid>58d270f9-6be5-4a60-bb41-12b719564bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Popup'])[1]/following::button[4]</value>
+      <webElementGuid>e8f5ca32-99a3-43f9-95c2-0d58dddc8637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Area'])[1]/preceding::button[1]</value>
+      <webElementGuid>5c4a6db8-f492-488e-af52-fd8c89a0b1c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Arrival Time'])[1]/preceding::button[1]</value>
+      <webElementGuid>f3f5840a-a8cd-4091-829b-aae1be43253e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/button</value>
+      <webElementGuid>c56e4857-8500-4900-b7d6-aa6ef9345bcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
